@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Add Task</string>
+    <string name="welcome_abby">Welcome Abby</string>
+    <string name="picture">picture</string>
+    <string name="your_task_for_today">Your task for today</string>
+    <string name="addicon">addIcon</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_task_for_today">Add task for today</string>
+    <string name="ok">OK</string>
+    <string name="added_task">added task</string>
+    <string name="what_to_you_want_to_do_today">what to you want to do today</string>
+</resources>
